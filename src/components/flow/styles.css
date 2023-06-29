@@ -1,0 +1,7 @@
+.collapsableButton {
+  transition: transform 0.5s;
+}
+
+.collapsedButton {
+  transform: rotate(180deg);
+}
